@@ -9,7 +9,7 @@ SmartCom.TvPhilipsManager = {
   },
 
   Init: function () {
-    var myBtn = document.getElementById('myButton');
+    var myBtn = document.getElementById('myButton1');
     var self= this;
 
     //add event listener
